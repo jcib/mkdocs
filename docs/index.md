@@ -7,7 +7,7 @@
     mkdocs.yml    # Archivo de configuración.
     docs/
         index.md  # Página inicial.
-        about.md  # Página sobre nosotros.
+        about.md  # Página sobre cómo hemos modificado el footer.
         pc_anos60.md # Documentación sobre ordenadores de los años 60.
         pc_anos70.md # Documentación sobre ordenadores de los años 70.
         pc_anos80.md # Documentación sobre ordenadores de los años 80.
