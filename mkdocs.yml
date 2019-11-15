@@ -1,4 +1,8 @@
-site_name: MkLorum
+site_name: Retroinformática
 nav:
-    - Home: index.md
-    - About: about.md
+    - Inicio: index.md
+    - Ordenadores años 60: pc_anos60.md
+    - Ordenadores años 70: pc_anos70.md
+    - Ordenadores años 80: pc_anos80.md
+    - Acerca de: about.md
+theme: amelia
